@@ -43,6 +43,7 @@ public class TitleLabel extends JLabel {
      */
     public void setLabel() {
         this.setText("New game!");
+        this.setForeground(Color.BLACK);
     }
 
     /**

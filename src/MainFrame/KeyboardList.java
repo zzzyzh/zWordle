@@ -56,7 +56,7 @@ public class KeyboardList extends JPanel {
     /**
      * A static color holding the initial background color of each letter.
      */
-    private static final Color INIT_BACKGROUND = new Color(238, 238, 238);
+    private static final Color INIT_BACKGROUND = Color.WHITE;
 
     /**
      * The constructor for class {@code KeyboardList}.
