@@ -11,8 +11,11 @@ An extended version of [Wordle](https://www.nytimes.com/games/wordle/index.html"
   * **Gray** if it is not in the word in any spot.
 
 ## Compile & Run
+If you use IDEA to compile and run this project, you will play game directly.
+
+Else if you want to compile and run this project in cmd, you should find all I/O and add "../" in the front of the path.
+Then you can use the command as following in cmd to play the game!
 ```shell
-cd src/MainFrame
 javac *.java && java zWordle
 ```
 
