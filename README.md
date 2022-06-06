@@ -20,6 +20,9 @@ javac *.java && java zWordle
 ```
 
 ## Regenerate the Javadoc
+If you use IDEA to generate the javadoc, you can use the tools of it.
+
+Else if you want to generate javadoc by yourself, you can use the command as following in cmd!
 ```shell
 javadoc -d ./javadoc ./src/MainFrame/*.java 
 ```
